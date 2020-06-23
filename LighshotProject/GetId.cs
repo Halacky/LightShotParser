@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace LighshotProject
+namespace LightShotProject
 {
-    class GetId
+    public class GetId
     {
         private static string startId;
         private static int count;

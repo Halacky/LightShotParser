@@ -6,7 +6,7 @@ using System.Linq;
 using System.Net;
 using System.Reflection;
 
-namespace LighshotProject
+namespace LightShotProject
 {
     class Program
     {
